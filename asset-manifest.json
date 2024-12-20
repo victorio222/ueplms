@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/uep-lms/static/css/main.8c6fbd4e.css",
-    "main.js": "/uep-lms/static/js/main.68fb878b.js",
-    "static/js/453.ed3810f9.chunk.js": "/uep-lms/static/js/453.ed3810f9.chunk.js",
-    "static/media/fa-solid-900.ttf": "/uep-lms/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/uep-lms/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/uep-lms/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/uep-lms/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/uep-lms/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/uep-lms/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/uep-lms/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/uep-lms/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/uep-lms/index.html",
-    "main.8c6fbd4e.css.map": "/uep-lms/static/css/main.8c6fbd4e.css.map",
-    "main.68fb878b.js.map": "/uep-lms/static/js/main.68fb878b.js.map",
-    "453.ed3810f9.chunk.js.map": "/uep-lms/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/ueplms/static/css/main.6f6047b0.css",
+    "main.js": "/ueplms/static/js/main.d4977b5d.js",
+    "static/js/453.ed3810f9.chunk.js": "/ueplms/static/js/453.ed3810f9.chunk.js",
+    "static/media/fa-solid-900.ttf": "/ueplms/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/ueplms/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/ueplms/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/ueplms/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/ueplms/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/ueplms/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/ueplms/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ueplms/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/ueplms/index.html",
+    "main.6f6047b0.css.map": "/ueplms/static/css/main.6f6047b0.css.map",
+    "main.d4977b5d.js.map": "/ueplms/static/js/main.d4977b5d.js.map",
+    "453.ed3810f9.chunk.js.map": "/ueplms/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c6fbd4e.css",
-    "static/js/main.68fb878b.js"
+    "static/css/main.6f6047b0.css",
+    "static/js/main.d4977b5d.js"
   ]
 }
