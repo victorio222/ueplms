@@ -1,0 +1,61 @@
+/*
+.sidebar {
+    background-color: rgb(30 41 59);;
+}*/
+.sidebar {
+    position: fixed;
+}
+.main {
+    margin-left: 240px;
+    transition: all ease-in 0.3s;
+}
+.main.open {  
+    margin-left: unset;
+    transition: all ease-in 0.3s;
+}
+.sidebar.closed {  
+    transition: all ease-in 0.3s;
+}
+.sidebar.open {
+    margin-left: -240px;
+    transition: all ease-in 0.3s;
+}
+.circle {
+    position: absolute;
+    background-color: rgb(27, 140, 240);
+    width: 90px;
+    height: 90px;
+    top: 0;
+    border-radius: 50%;
+    top: -41%;
+    left: -8%;    
+    transition: all ease-in-out 0.3s;  
+}
+.circle span {
+    position: relative;
+    margin-top: 55px;
+    margin-left: 26px;
+    font-size: 23px;
+    color: #fff;
+}
+.cardIcon {
+    position: absolute;
+    color: white;
+    top: 53%;
+    left: 44%;
+    font-size: 28px;
+}
+.card #sub-icon {
+    position: relative;
+    left: 0;
+    color: rgb(37, 138, 226);
+}
+.card-item:hover > .circle {
+    margin: 3px;
+    transition: all ease-in-out 0.3s;    
+}
+
+.sidebar-itemm.active {
+    background-color: #007bff; /* Change this to your desired active color */
+    color: white; /* Change text color for active state */
+}
